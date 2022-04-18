@@ -1,0 +1,10 @@
+^D:\CG\ASSIGNMENT1_3D_TRANSFORMATION\CGASSIGNMENT1\CMAKELISTS.TXT
+setlocal
+D:\CMAKE\bin\cmake.exe -SD:/CG/Assignment1_3D_Transformation/CGAssignment1 -BD:/CG/Assignment1_3D_Transformation/CGAssignment1/build --check-stamp-file D:/CG/Assignment1_3D_Transformation/CGAssignment1/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>p5.js example</title>
+  <style>
+    canvas {
+      margin: auto;
+      display: block;
+    }
+  </style>
+  <script src="p5/p5.js"></script>
+  <script src="img/sun.jpg"></script>
+  <script src="sketch.js"></script>
+  <script src="particle.js"></script>
+  <script src="firework.js"></script>
+  <script src="camera.js"></script>
+  <script src="gl-matrix.js"></script>
+  <script src="skybox.js"></script>
+
+</head>
+
+<body>
+    <script id="VertexShader" type="x-shader/x-vertex">
+        uniform mat4 projection;
+        uniform mat4 modelview;
+        attribute vec3 coords;
+        varying vec3 vCoords;
+        void main() {
+            vec4 eyeCoords = modelview * vec4(coords,1.0);
+            gl_Position = projection * eyeCoords;
+            vCoords = coords;
+        }
+    </script>
+    <script id="FragmentShader" type="x-shader/x-fragment">
+        precision mediump float;
+        varying vec3 vCoords;
+        uniform samplerCube skybox;
+        void main() {
+            gl_FragColor = textureCube(skybox, vCoords);
+        }
+    </script>
+</body>
+
+</html>

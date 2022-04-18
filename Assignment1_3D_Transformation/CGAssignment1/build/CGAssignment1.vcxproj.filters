@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\CG\Assignment1_3D_Transformation\CGAssignment1\src\TRDrawableMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\CG\Assignment1_3D_Transformation\CGAssignment1\src\TRFrameBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\CG\Assignment1_3D_Transformation\CGAssignment1\src\TRRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\CG\Assignment1_3D_Transformation\CGAssignment1\src\TRShaderPipeline.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\CG\Assignment1_3D_Transformation\CGAssignment1\src\TRWindowsApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\CG\Assignment1_3D_Transformation\CGAssignment1\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\CG\Assignment1_3D_Transformation\CGAssignment1\src\TRDrawableMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\CG\Assignment1_3D_Transformation\CGAssignment1\src\TRFrameBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\CG\Assignment1_3D_Transformation\CGAssignment1\src\TRRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\CG\Assignment1_3D_Transformation\CGAssignment1\src\TRShaderPipeline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\CG\Assignment1_3D_Transformation\CGAssignment1\src\TRWindowsApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\CG\Assignment1_3D_Transformation\CGAssignment1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{64D2F060-068E-3D82-AF7A-E9F22D96BBB3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4AC59DF2-72A7-3C8F-A8E9-7E39E4D5D328}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

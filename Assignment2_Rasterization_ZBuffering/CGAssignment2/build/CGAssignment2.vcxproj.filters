@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRDrawableMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRFrameBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRShaderPipeline.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRWindowsApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRDrawableMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRFrameBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRShaderPipeline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRWindowsApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9856DC1E-F020-32F8-86EC-ADD0B2CA2556}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CE6AF58D-EBAB-388D-B2F6-0DB462F00481}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

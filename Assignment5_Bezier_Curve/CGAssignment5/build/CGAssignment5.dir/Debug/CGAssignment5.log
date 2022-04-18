@@ -1,0 +1,30 @@
+﻿  Utils.cpp
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.h(19,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.h(19,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.h(25,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.h(25,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.h(48,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.h(48,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp(43,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp(50,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp(54,36): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp(54,30): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp(54,24): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp(54,18): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp(78,72): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp(78,60): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp(78,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp(78,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp(83,60): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp(83,45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp(97,65): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp(97,50): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp(107,118): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp(107,103): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp(107,88): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp(107,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp(108,102): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp(108,83): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp(109,102): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp(109,83): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  CGAssignment5.vcxproj -> D:\CG\Assignment5_Bezier_Curve\CGAssignment5\build\Debug\CGAssignment5.exe

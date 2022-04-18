@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRDrawableMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRFrameBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRShadingPipeline.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRTexture2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRWindowsApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRDrawableMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRFrameBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRShadingPipeline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRShadingState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRTexture2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRWindowsApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0C59F63C-675A-3774-BAAC-3A042330C18B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3CBEE3B0-3C00-3302-87E5-992F445B0C0F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

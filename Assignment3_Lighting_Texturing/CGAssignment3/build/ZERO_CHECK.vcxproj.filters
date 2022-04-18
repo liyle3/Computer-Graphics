@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\build\CMakeFiles\de605a52dfc80271038535c8fcc93545\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{150C1DC2-CAC6-3562-897D-943C79400855}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

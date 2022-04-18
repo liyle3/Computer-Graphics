@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\CG\Assignment5_Bezier_Curve\CGAssignment5\build\CMakeFiles\9ab6a930cc4df1a08ba3e587bb67e5a2\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BABAD241-F758-3214-AE92-3D82D8FCCBCA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

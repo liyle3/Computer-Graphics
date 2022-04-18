@@ -1,0 +1,10 @@
+^D:\CG\ASSIGNMENT1_3D_TRANSFORMATION\CGASSIGNMENT1\BUILD\CMAKEFILES\77D9B403B981FC38F81B13AE2C5057A5\GENERATE.STAMP.RULE
+setlocal
+D:\CMAKE\bin\cmake.exe -SD:/CG/Assignment1_3D_Transformation/CGAssignment1 -BD:/CG/Assignment1_3D_Transformation/CGAssignment1/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/CG/Assignment1_3D_Transformation/CGAssignment1/build/CGAssignment1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

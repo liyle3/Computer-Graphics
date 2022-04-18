@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\CG\Assignment1_3D_Transformation\CGAssignment1\src\main.cpp(107,23): warning C4305: “初始化”: 从“double”到“float”截断
+  CGAssignment1.vcxproj -> D:\CG\Assignment1_3D_Transformation\CGAssignment1\build\Release\CGAssignment1.exe

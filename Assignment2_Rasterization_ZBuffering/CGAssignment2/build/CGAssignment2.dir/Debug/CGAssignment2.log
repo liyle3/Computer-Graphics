@@ -1,0 +1,50 @@
+﻿  Building Custom Rule D:/CG/Assignment2_Rasterization_ZBuffering/CGAssignment2/CMakeLists.txt
+  TRDrawableMesh.cpp
+D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRDrawableMesh.cpp(67,26): warning C4018: “<”: 有符号/无符号不匹配
+  TRFrameBuffer.cpp
+  TRRenderer.cpp
+D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRRenderer.cpp(310,12): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRRenderer.cpp(354,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  TRShaderPipeline.cpp
+D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRShaderPipeline.cpp(21,45): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRShaderPipeline.cpp(22,45): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRShaderPipeline.cpp(39,53): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRShaderPipeline.cpp(40,53): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRShaderPipeline.cpp(138,87): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRShaderPipeline.cpp(153,33): warning C4018: “>”: 有符号/无符号不匹配
+D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRShaderPipeline.cpp(153,63): warning C4018: “>”: 有符号/无符号不匹配
+D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRShaderPipeline.cpp(159,87): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRShaderPipeline.cpp(174,33): warning C4018: “>”: 有符号/无符号不匹配
+D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRShaderPipeline.cpp(174,63): warning C4018: “>”: 有符号/无符号不匹配
+  TRWindowsApp.cpp
+  main.cpp
+  正在生成代码...
+  CGAssignment2.vcxproj -> D:\CG\Assignment2_Rasterization_ZBuffering\CGAssignment2\build\Debug\CGAssignment2.exe

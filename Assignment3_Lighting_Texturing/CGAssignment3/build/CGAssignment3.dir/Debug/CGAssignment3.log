@@ -1,0 +1,64 @@
+﻿  TRTexture2D.cpp
+D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRTexture2D.cpp(137,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRTexture2D.cpp(138,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRTexture2D.cpp(157,24): warning C4244: “=”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRTexture2D.cpp(158,26): warning C4244: “=”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRTexture2D.cpp(159,24): warning C4244: “=”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRTexture2D.cpp(160,26): warning C4244: “=”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRTexture2D.cpp(166,31): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRTexture2D.cpp(166,24): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRTexture2D.cpp(167,31): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRTexture2D.cpp(167,24): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRTexture2D.cpp(168,31): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRTexture2D.cpp(168,24): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRTexture2D.cpp(169,31): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\src\TRTexture2D.cpp(169,24): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+  CGAssignment3.vcxproj -> D:\CG\Assignment3_Lighting_Texturing\CGAssignment3\build\Debug\CGAssignment3.exe

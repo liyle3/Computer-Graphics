@@ -1,0 +1,10 @@
+^D:\CG\ASSIGNMENT5_BEZIER_CURVE\CGASSIGNMENT5\CMAKELISTS.TXT
+setlocal
+D:\CMAKE\bin\cmake.exe -SD:/CG/Assignment5_Bezier_Curve/CGAssignment5 -BD:/CG/Assignment5_Bezier_Curve/CGAssignment5/build --check-stamp-file D:/CG/Assignment5_Bezier_Curve/CGAssignment5/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

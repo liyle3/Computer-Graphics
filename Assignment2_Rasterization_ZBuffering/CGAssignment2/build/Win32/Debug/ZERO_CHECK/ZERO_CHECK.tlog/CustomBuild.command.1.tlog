@@ -1,0 +1,10 @@
+^D:\CG\ASSIGNMENT2_RASTERIZATION_ZBUFFERING\CGASSIGNMENT2\BUILD\CMAKEFILES\3475CBE5E52BA66D10FE3471AEADBBDB\GENERATE.STAMP.RULE
+setlocal
+D:\CMAKE\bin\cmake.exe -SD:/CG/Assignment2_Rasterization_ZBuffering/CGAssignment2 -BD:/CG/Assignment2_Rasterization_ZBuffering/CGAssignment2/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/CG/Assignment2_Rasterization_ZBuffering/CGAssignment2/build/CGAssignment2.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

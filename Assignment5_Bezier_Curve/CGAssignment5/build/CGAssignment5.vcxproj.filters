@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\WindowsApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\Utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\CG\Assignment5_Bezier_Curve\CGAssignment5\src\WindowsApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\CG\Assignment5_Bezier_Curve\CGAssignment5\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{DD45BE3F-591F-3784-8D15-F3A02438A531}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{76AA5F89-0650-30F4-BCB5-DC859A217C1C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
